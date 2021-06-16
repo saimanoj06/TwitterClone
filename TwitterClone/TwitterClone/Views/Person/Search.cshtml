@@ -1,0 +1,43 @@
+﻿@model IEnumerable<TwitterClone.Models.Person>
+
+@{
+    ViewData["Title"] = "Search";
+}
+
+<h1>Search Results</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                <a asp-action="SearchResults" asp-route-id="@item.UserId">Follow</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>@Html.ActionLink("Go Back","HomePage","Twitter")</p>

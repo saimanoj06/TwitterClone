@@ -1,0 +1,142 @@
+﻿@model IList<TwitterClone.Models.PersonTweetsAndFollowingDetails>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <title>HomePage</title>
+
+
+    <style>
+        #F1 {
+            align-content: center;
+            padding-left: 500px;
+            padding-top: 0px;
+            color: darkcyan;
+            margin: 8px,30px;
+            border-radius: 3px;
+        }
+
+        #D1 {
+            padding-left: 132px;
+            padding-top: 40px;
+            height: 40px;
+            color: darkcyan;
+            align-content: center;
+        }
+
+        #D2 {
+            padding-left: 132px;
+            padding-top: 40px;
+            height: 40px;
+            color: darkcyan;
+            align-content: center;
+        }
+
+        #D3 {
+            padding-left: 495px;
+            padding-top: 0px;
+            color: darkcyan;
+            align-content: center;
+        }
+
+        #T1 {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Twitter Clone</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            Welcome @ViewBag.Uname
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Twitter" asp-action="HomePage">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Person" asp-action="Edit">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Twitter" asp-action="LogOut">SignOut</a>
+                        </li>
+
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div>
+        <form id="D1" action=@Url.Action("Search","Person")>
+            <p>Follow</p>
+            <input type="text" name="searchName" placeholder="Search User" />
+            <input type="submit" value="Search" />
+            <span>@ViewBag.Message</span>
+        </form>
+    </div>
+
+
+    <form id="F1" action=@Url.Action("Tweet","Person")>
+        <label>What are you doing?</label>
+        <br />
+        <textarea rows="5" cols="100" name="message"> </textarea>
+        <br />
+        <input type="submit" value="Update" />
+        <span>@ViewBag.ErrMessage</span>
+    </form>
+    <div id="D2">
+        <p>@ViewBag.Count Tweets</p>
+        <p>@ViewBag.Followings Folllowing</p>
+        <p>@ViewBag.Followers Followers</p>
+    </div>
+    <div id="D3">
+        <p>Tweets</p>
+        <table id="T1" style="width:75%">
+            @if (Model != null)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.tweet.UserId</td>
+                        <td>@item.tweet.Message</td>
+                        <td>@item.tweet.CreatedDate</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td></td>
+                </tr>
+            }
+
+            
+        </table>
+    </div>
+
+
+</body>
+</html>
+

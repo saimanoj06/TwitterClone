@@ -1,0 +1,304 @@
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.exe
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.deps.json
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ref\TwitterClone.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.Views.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.Views.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\staticwebassets\TwitterClone.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\staticwebassets\TwitterClone.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\scopedcss\bundle\TwitterClone.styles.css
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.TagHelpers.input.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.TagHelpers.output.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorCoreGenerate.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorTargetAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.Views.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\ref\TwitterClone.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.pdb
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\SignUp.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\Login.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\Index.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\HomePage.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Person\Search.cshtml.g.cs
+C:\Users\sanib\Documents\.Net Framework\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Person\Edit.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\appsettings.json
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.exe
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.deps.json
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.runtimeconfig.json
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.runtimeconfig.dev.json
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ref\TwitterClone.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.Views.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\TwitterClone.Views.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.csprojAssemblyReference.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.AssemblyInfoInputs.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.AssemblyInfo.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorAssemblyInfo.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorAssemblyInfo.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\staticwebassets\TwitterClone.StaticWebAssets.Manifest.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\staticwebassets\TwitterClone.StaticWebAssets.xml
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\scopedcss\bundle\TwitterClone.styles.css
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.TagHelpers.input.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.TagHelpers.output.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorCoreGenerate.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Person\Edit.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Person\Search.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\HomePage.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\Index.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\Login.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\Twitter\SignUp.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorTargetAssemblyInfo.cache
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.RazorTargetAssemblyInfo.cs
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.Views.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.csproj.CopyComplete
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\ref\TwitterClone.dll
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.pdb
+C:\Users\DJ\Downloads\Mini_Sprint\Mini_Sprint\TwitterClone\TwitterClone\obj\Debug\net5.0\TwitterClone.genruntimeconfig.cache
